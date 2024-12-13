@@ -13,10 +13,10 @@ To run this project,  the following libraries are required (python 3.x):
 
 # Methodology
 
-1. Data Preprocessing
-2. Feature Engineering
-3. Model Training
-4. Model Evaluation
+1. Data Preprocessing.
+2. Feature Engineering.
+3. Model Training.
+4. Model Evaluation.
 
 ### References
 
