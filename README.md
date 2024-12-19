@@ -20,7 +20,7 @@ To run this project,  the following libraries are required (python 3.x):
 
 ### References
 
-The study for which this project is based on can be found at [paper](https://www.nature.com/articles/s41597-022-01862-w#Bib1) 
+The study for which this project is based on can be found at [paper](https://www.nature.com/articles/s41597-022-01862-w#Bib1) :
 
 P. Lencastre, S. Bhurtel, A. Yazidi, S. Denysov, P. G. Lind, et al. EyeT4Empathy: Dataset of foraging for visual information, gaze typing and empathy assessment. Scientific Data, 9(1):1–8, 2022
 
